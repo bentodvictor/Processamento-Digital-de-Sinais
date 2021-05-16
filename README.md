@@ -1,2 +1,2 @@
-# Processamento-Digital-de-Sinais
-7º Semestre do curso de Engenharia da Computação - UFSM
+# Digital signal processing
+Digital signal processing material from 7th semester of Computer Engineering - UFSM.
